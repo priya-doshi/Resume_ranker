@@ -1,16 +1,31 @@
 # Resume_ranker
 
-How to run development website in your OS ?
 
-1. pip install flask
 
-2. pip install Flask-WTF
+1. clone the repository
 
-3. pip install Flask-SQLAlchemy
+```
+git clone https://github.com/priya-doshi/Resume_ranker.git
+```
 
-4. Go to app directory from command line
+2. Go to the directory
 
-5. Execute the following command for running the website
-   python run.py
+3. Install the dependencies
 
-6. Go to http://127.0.0.1:5000/ for accessing the website
+```
+pip install flask
+
+pip install Flask-WTF
+
+pip install Flask-SQLAlchemy
+```
+
+4. Run server
+
+```
+python run.py
+
+```
+
+5.Go to http://127.0.0.1:5000/ for accessing the websit
+
